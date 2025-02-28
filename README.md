@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Any Kind Of Game Projects :D**
 
-- 📄 Know about my experiences [I don't have it yet](I don't have it yet)
+- 📄 Know about my experiences <a link="https://drive.google.com/file/d/1X6SorwkcW3rPMhqHNBy-FR-2gn9fcV78/view?usp=drive_link"> My CV </a>
 
 - ⚡ Fun fact **Soon an indie game developer too :D**
 
