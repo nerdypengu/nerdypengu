@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eugenia Indrawan</h1>
-<h3 align="center">A Curious Back-End Developer who loves to learn new things</h3>
+<h3 align="center">A Curious Back-End Developer who loves to game alot</h3>
 
 - 🌱 I’m currently learning **Typescript, C# in Unity, and Flutter for Android**
 
