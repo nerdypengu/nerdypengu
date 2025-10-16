@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Eugenia Indrawan</h1>
 <h3 align="center">A Curious Back-End Developer who loves to game alot</h3>
 
-- 🌱 I’m currently learning **Typescript, C# in Unity, and Flutter for Android**
+- 🌱 I’m currently learning **Javascript, C# in Unity, and Flutter for Android**
 
-- 👯 I’m looking to collaborate on **Any Kind Of Game Projects :D**
+- 👯 I’m looking to collaborate on **Any Kind of Web projects** :D
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1xWqsiOcIRj9cNTGegaMcvtYZ9zj3nGqd/view?usp=drive_link"> My CV </a>
 
-- ⚡ Fun fact **Soon an indie game developer too :D**
+- ⚡ Fun fact : Got into learning back-end first rather than front-end thanks to a friend saying Back-End is easier ( it is somehow )
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
